@@ -5,4 +5,4 @@ Python dasturlash tili  yordamida mehmonxona boshqaruv kodi yozilgan
 <h1>Python</h1>
 
 <h1>py hotel.py</h1>
-<image src="books/" width='100%' hieght=''>
+<image src="images/hotel.png" width='100%' hieght=''>
